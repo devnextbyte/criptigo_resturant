@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879101277087",
+    "project_id": "criptigo",
+    "storage_bucket": "criptigo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879101277087:android:28e1dda573acb5ad39c3aa",
+        "android_client_info": {
+          "package_name": "com.criptigo.criptigo.criptigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879101277087-9pplp742se18pds1d0trai65tm515gqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9vuPGNmdRCpruSS2zFXdSHfOGnwC0XhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879101277087-9pplp742se18pds1d0trai65tm515gqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
